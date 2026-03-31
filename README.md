@@ -1,78 +1,22 @@
-# Hi there! 👋 I'm Yatish Kumar Verma
+# 💫 About Me:
+2025 CSE graduate | 950+ DSA problems solved  <br>Strong in core DSA  <br>Built scalable, real-time systems including a touchless accessibility launcher and a GenAI-powered vision-based quality control system using LLMs (Transformers), with focus on optimized logic, low-latency performance, and clean architecture  <br>Flipkart GRiD 6.0 Top 79  <br><br>Tech: C++ | SQL | Python | OOPS <br>Focused on SDE roles — writing efficient, production-ready code and strengthening system design thinking  <br><br>Passionate about building scalable systems & turning complex problems into simple, efficient solutions 🚀
 
-![Profile Banner](https://via.placeholder.com/1000x250) <!-- Optional: Add a personalized banner image -->
 
-## 🚀 About Me
-I'm a passionate developer and an enthusiast in [Your Specialization/Field]. Currently, I'm working on projects in [mention tech areas like AI, ML, Web Development, etc.], and I enjoy building innovative solutions and experimenting with new technologies.
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yatish54321@gmail.com) 
 
-- 🔭 I’m currently working on: [Your Project]
-- 🌱 I’m learning: [Technologies or Skills]
-- 👯 I’m looking to collaborate on: [Collaboration Goals]
-- 📫 How to reach me: [Your Contact Information]
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yatish54321&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yatish54321&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yatish54321&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-## 🛠️ Skills & Tools
-<p align="left">
-    <img src="https://img.shields.io/badge/Programming-Python-blue?style=flat&logo=python" alt="Python"/>
-    <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat&logo=react" alt="React"/>
-    <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat&logo=postgresql" alt="PostgreSQL"/>
-    <!-- Add more badges as needed -->
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Yatish54321&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://your-website.com)
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
-
----
-
-## 🏆 My GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&row=1&column=7" alt="Trophies" />
-
----
-
-## 📂 Featured Projects
-<a href="https://github.com/your-username/your-project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-project-1&theme=dark" />
-</a>
-<a href="https://github.com/your-username/your-project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-project-2&theme=dark" />
-</a>
-
----
-
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post 1 Title](https://your-blog-link.com)
-- [Blog Post 2 Title](https://your-blog-link.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎥 Project Demos
-- **[Project Name](https://github.com/your-username/your-project)**:  
-  ![Demo GIF](https://via.placeholder.com/600x400) <!-- Replace with a GIF showcasing your project -->
-
----
-
-## 📈 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-### ✨ Fun Fact
-> "Here's a quirky or motivational quote about coding, tech, or personal growth!"
-
----
-
-*Thanks for visiting! Have a great day! 😊*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
