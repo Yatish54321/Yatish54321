@@ -1,5 +1,5 @@
 # 💫 About Me:
-2025 CSE graduate | 950+ DSA problems solved  <br>Strong in core DSA  <br>Built scalable, real-time systems including a touchless accessibility launcher and a GenAI-powered vision-based quality control system using LLMs (Transformers), with focus on optimized logic, low-latency performance, and clean architecture  <br>Flipkart GRiD 6.0 Top 79  <br><br>Tech: C++ | SQL | Python | OOPS <br>Focused on SDE roles — writing efficient, production-ready code and strengthening system design thinking  <br><br>Passionate about building scalable systems & turning complex problems into simple, efficient solutions 🚀
+2025 CSE graduate | 650+ DSA problems solved  <br>Strong in core DSA  <br>Built scalable, real-time systems with focus on optimized logic, clean architecture, and efficient performance  <br>Flipkart GRiD 6.0 Top 79  <br><br>Tech: C++ | JavaScript | Python | SQL | Node.js | React.js | MongoDB | Gemini | Sarvam AI | RAG | WebSockets | Webhooks | MCP <br>Focused on SDE roles — writing efficient, production-ready code and strengthening system design thinking  <br><br>Passionate about building scalable systems & turning complex problems into simple, efficient solutions 🚀
 
 
 ## 🌐 Socials:
